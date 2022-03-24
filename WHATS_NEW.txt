@@ -1,0 +1,47 @@
+15.2 Release!
+
+Whats new:
+* Added ability to manage/schedule deliveries
+https://support.phppointofsale.com/v15.2/docs/deliveries
+* Coupon codes for price rules
+https://support.phppointofsale.com/v15.2/docs/pricing-rules-coupons#section-coupons
+* Dialog for price rules items asking if you want to add qualifying items
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-enable-price-rules-dialog-
+* Ability to handle multiple currencies
+https://support.phppointofsale.com/v15.2/docs/multiple-currency
+* 5 Custom fields for customers, employees, and suppliers are now possible
+https://support.phppointofsale.com/v15.2/docs/custom-fields-for-customers
+* Performance improvements for e-commerce integration
+* Reset E-Commmerce Button
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-reset-e-commerce
+* Added new Tier Pricing Option "Cost Plus Fixed Amount"
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-price-tiers
+* Added lookup order for item id, upc, product id, additional item numbers, and serial number
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-item-lookup-order
+* Tax Groups: Groups for taxes can now be created and assigned to items, item kits, suppliers, customers, store configuration, and locations.
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-tax-groups-
+* Can now choose the fields you want to display for items, kits, customers, suppliers, employees on the manage screens
+https://support.phppointofsale.com/v15.2/docs/custom-views
+* Added store config option to limit the number of decaimls for quantity to show on sales receipt
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-number-of-decimals-for-quantity-on-receipt
+* Default re-order level as store config preference when creating new items
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-default-reorder-level-when-creating-items
+* Can now have a replenish level for items. This allows for PO's to get the right amount of stock
+https://support.phppointofsale.com/v15.2/docs/creating-items#section-3-reorder-and-replenish-levels
+* Added option to inventory summary report "Show Deleted Items"
+https://support.phppointofsale.com/v15.2/docs/reports#section-inventory
+* Major UI bug fixes and enhancements to make it work better with mobile
+* Disable loyalty added to bulk edit
+https://support.phppointofsale.com/v15.2/docs/creating-items#section-bulk-edit
+* Can now define a "Max Discount Percent" for items and item kits
+https://support.phppointofsale.com/v15.2/docs/creating-items#section-4-max-discount-percent
+* Added store config preference "remove customer company name from receipt"
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-remove-customer-company-name-from-receipt-
+* Added WIC payment type option when EBT enabled
+https://support.phppointofsale.com/v15.2/docs/store-configuration-options#section-enable-wic
+* Added support for First Data for credit card processing.
+https://support.phppointofsale.com/v15.2/docs/first-data
+* Performance improvements for mailchimp
+* Suspended sales report shows amount due, amount paid, and last payment date
+* Added Chinese language support
+* Added paypal.me integration for customer store accounts

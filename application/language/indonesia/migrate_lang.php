@@ -1,0 +1,74 @@
+<?php
+
+$lang['migrate_title'] = 'Upgrade PHP Point Of Sale database';
+$lang['migrate_message'] = 'Kami telah mendeteksi bahwa PHP Point Of Database Sale ini perlu ditingkatkan. Klik tombol database Peningkatan bawah untuk memulai proses. Setelah proses selesai, Anda dapat login ke PHP Point Of Sale';
+$lang['migrate_upgrade_database'] = 'Upgrade database';
+$lang['migrate_complete'] = 'Lengkap';
+$lang['migrate_starting'] = 'mulai';
+$lang['migrate_login_to_upgraded_pos'] = 'Login ke Ditingkatkan PHP POS';
+$lang['migrate_setup_phppos'] = 'Instal PHP Point Of Sale';
+$lang['migrate_install_message'] = 'Selamat Datang di PHP Point Of Sale! Klik tombol di bawah untuk menginstal database Anda! Proses ini dapat berlangsung beberapa menit. Setelah proses selesai Anda dapat login ke POS baru Anda!';
+$lang['migrate_install_database'] = 'menginstal database';
+$lang['migrate_login_to_new_pos'] = 'Login ke POS Sistem PHP Anda';
+$lang['migrate_init'] = 'inisialisasi';
+$lang['migrate_15_1_version'] = 'Memperbarui menjadi 15,1 Versi di database';
+$lang['migrate_emv_ip_tran'] = 'Dukungan EMV IP Tran';
+$lang['migrate_additional_item_numbers_change'] = 'Tambahan Item Number Kendala';
+$lang['migrate_locations_new_fields'] = 'ladang baru untuk tabel lokasi';
+$lang['migrate_app_config_rename_fields'] = 'Mengubah nama beberapa bidang aplikasi configiration';
+$lang['migrate_larger_fields'] = 'Membuat bidang menerima nilai-nilai yang lebih besar';
+
+$lang['migrate_edit_profile_permission'] = 'Izin untuk memungkinkan karyawan untuk mengedit profil mereka sendiri';
+$lang['migrate_timeclock_changes'] = 'Rekam alamat IP dan izin untuk waktu jam';
+$lang['migrate_store_account_changes_and_suppliers'] = 'Akun toko pemasok dan fitur baru untuk akun toko';
+
+$lang['migrate_employee_security_password'] = 'Selalu requring bidang sandi untuk karyawan';
+$lang['migrate_new_price_tier_options'] = 'Pilihan baru untuk harga lapis';
+$lang['migrate_disable_loyalty'] = 'Nonaktifkan Loyalitas untuk item dan pelanggan';
+$lang['migrate_manufacturers'] = 'Menambahkan pelacakan Industri';
+$lang['migrate_price_rules'] = 'Canggih Aturan Harga';
+$lang['migrate_serial_numbers'] = 'Menghubungkan Serial Number untuk item';
+$lang['migrate_ebt'] = 'pembayaran EBT';
+$lang['migrate_ecommerce'] = 'Dukungan e-commerce';
+$lang['migrate_denormalize_sales'] = 'denormalize Penjualan';
+$lang['migrate_denormalize_recv'] = 'denormalize Receivings';
+$lang['migrate_categories_images_and_colors'] = 'Kategori Gambar dan Warna';
+$lang['migrate_remove_fulltext_from_most_entities'] = 'Hapus Fulltext dari sebagian besar entitas';
+$lang['migrate_new_indexes'] = 'indeks baru';
+$lang['migrate_timestamp_app_files'] = 'file aplikasi timestamp untuk caching';
+$lang['migrate_tasks_completed'] = 'tugas Selesai';
+$lang['migrate_new_import'] = 'Impor baru';
+$lang['migrate_quickbooks_aaatex_integration'] = 'Integrasi Quickbooks Aaatex';
+
+$lang['migrate_device_override_emv'] = 'Perangkat Override EMV';
+$lang['migrate_dashboard_statistics_per_employee'] = 'Dashboard Statistik Per Karyawan';
+$lang['migrate_left_lav_icon_update'] = 'Kiri Nav Icon Perbarui';
+$lang['migrate_multiple_images_for_items'] = 'Beberapa Gambar Untuk Produk';
+$lang['migrate_customer_fields'] = 'Menambahkan kolom pelanggan';
+$lang['migrate_new_sales_columns'] = 'Tambahkan Penjualan Fields';
+$lang['migrate_new_items_columns'] = 'Tambahkan Item Fields';
+$lang['migrate_sessions_table_change'] = 'Sesi Tabel Perubahan';
+$lang['migrate_warning'] = 'Jangan refresh atau menavigasi dari halaman ini';
+$lang['migrate_change_price_rules_icon'] = 'Ubah Harga Aturan Icon';
+$lang['migrate_15_2_version'] = 'versi 15.2';
+$lang['migrate_coupon_codes'] = 'Kode kupon';
+$lang['migrate_remove_is_bogo_from_database'] = 'Hapus Is Bogo Dari database';
+$lang['migrate_larger_invoice_item_description'] = 'Lebih besar Faktur Deskripsi Item';
+$lang['migrate_replenish_level'] = 'mengisi Tingkat';
+$lang['migrate_deliveries'] = 'Pengiriman';
+$lang['migrate_allow_for_employee_display_column_customization_for_all_manage_tables'] = 'Biarkan Untuk Karyawan Tampilan Kolom Kustomisasi Untuk Semua Mengelola Tabel';
+$lang['migrate_customer_custom_fields'] = 'Bidang khusus pelanggan';
+$lang['migrate_tax_classes'] = 'Kelas pajak';
+$lang['migrate_supplier_custom_fields'] = 'Bidang Custom Supplier';
+$lang['migrate_employee_custom_fields'] = 'Bidang Kustom Karyawan';
+$lang['migrate_system_items_hiding'] = 'Produk Sistem Bersembunyi';
+$lang['migrate_rename_legacy_search_method'] = 'Ubah nama metode pencarian lawas';
+$lang['migrate_price_tiers_cost_plus_fixed_amount'] = 'Price Tiers Cost Plus Fixed Amount';
+$lang['migrate_Zips'] = 'Ritsleting';
+$lang['migrate_ecommerce_performance_improvements'] = 'Perbaikan Kinerja E-niaga';
+$lang['migrate_multiple_currency'] = 'Beberapa mata uang';
+$lang['migrate_item_lookup_order'] = 'Item Lookup Order';
+$lang['migrate_limited_discounts_for_items_and_item_kits'] = 'Diskon Terbatas untuk Item dan Item Kit';
+$lang['migrate_min_and_max_price_items_item_kits'] = 'Item Item Item Min Dan Max Item Item';
+$lang['migrate_ebt_non_integrated_flag'] = 'Bendera Ebt Non Terpadu';
+?>

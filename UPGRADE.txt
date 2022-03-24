@@ -1,0 +1,3 @@
+How to Upgrade
+-------------------------
+http://support.phppointofsale.com/docs/upgrading-php-point-of-sale-manual-install
